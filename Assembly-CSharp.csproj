@@ -55,6 +55,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\CubeMovement.cs" />
      <Compile Include="Assets\Scripts\RandomPosition.cs" />
+     <Compile Include="Assets\Scripts\TableTilt.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>/Users/estagioeducacao1/Desktop/Documentos/git projects/story-cubes/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
